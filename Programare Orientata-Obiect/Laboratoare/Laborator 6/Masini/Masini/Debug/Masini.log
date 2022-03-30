@@ -1,0 +1,3 @@
+﻿  Mercedes.cpp
+D:\Facultate\Semestrul 2\Programare orientata-obiect\Laboratoare\6\Masini\Masini\Mercedes.cpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Masini.vcxproj -> D:\Facultate\Semestrul 2\Programare orientata-obiect\Laboratoare\6\Masini\Debug\Masini.exe

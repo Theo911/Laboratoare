@@ -1,0 +1,4 @@
+﻿  Literali.cpp
+D:\Facultate\Semestrul 2\Programare orientata-obiect\Laboratoare\7\Literali\Literali\Literali.cpp(9,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Facultate\Semestrul 2\Programare orientata-obiect\Laboratoare\7\Literali\Literali\Literali.cpp(17,19): warning C4305: '/=': truncation from 'double' to 'float'
+  Literali.vcxproj -> D:\Facultate\Semestrul 2\Programare orientata-obiect\Laboratoare\7\Literali\Debug\Literali.exe

@@ -1,0 +1,4 @@
+﻿  laborator_13.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+D:\Facultate\Semestrul 2\Programare orientata-obiect\Laboratoare\13\laborator_13\laborator_13\Clase.h(122): warning C4715: 'Agenda::Cauta': not all control paths return a value
+  laborator_13.vcxproj -> D:\Facultate\Semestrul 2\Programare orientata-obiect\Laboratoare\13\laborator_13\Debug\laborator_13.exe
